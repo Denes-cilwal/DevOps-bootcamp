@@ -1,0 +1,8 @@
+hey first line of file is yet to committed
+ HEAD always points to the last commit on the currently checked-out branch.
+ # git log
+ # git log --only-name
+ # git log --graph --decorate
+ # git log --online --graph -all
+ # git merge feature-branch [fast-forward merge] - it just keep linear straight history- synchronizing to same commit - no other branches at all
+ non-fast-forward [branch wise history]
