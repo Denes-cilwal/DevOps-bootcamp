@@ -6,3 +6,8 @@ hey first line of file is yet to committed
  # git log --online --graph -all
  # git merge feature-branch [fast-forward merge] - it just keep linear straight history- synchronizing to same commit - no other branches at all
  non-fast-forward [branch wise history]
+
+ write a text to file using cat command
+ cat > readme.txt
+ cat >> readme.txt - existing file
+ cat readme.txt
