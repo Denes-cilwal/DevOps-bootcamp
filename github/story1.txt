@@ -1,5 +1,1 @@
-This is new story file
-first commit and second commit version lives in committed track allows to go
-
-
- back to time
+hey first line of file is yet to committed
